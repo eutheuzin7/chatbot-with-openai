@@ -10,7 +10,7 @@ não venda este material, pois ele é grátis. a venda de obra sem autorização
 
 # Requisitos
 - key openai (obrigatório)*
-- Plano de domínio e hospedagem (opcional)
+- Plano de hospedagem e domínio (opcional)
 - Certificado ssl (opcional)
 
 # importar composer (opcional)
