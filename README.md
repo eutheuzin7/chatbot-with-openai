@@ -6,9 +6,9 @@
 > Instagram [@eutheuzin7](https://instagram.com/eutheuzin7)
 
 # Atenção
-não venda este material, pois ele é grátis. a venda de obra sem autorização do titular pode resultar em punições locais. se for editar deixe meus créditos, bom uso!
+este é um exemplo de chatbot web com inteligência artificial openai (chatgpt). é totalmente proibido a venda deste código. a venda deste código viola os direitos de autor. **BOM USO!**
 
-# Requisitos
+# Requisitos.
 - key openai (obrigatório)*
 - Plano de hospedagem e domínio (opcional)
 - Certificado ssl (opcional)
