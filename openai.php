@@ -12,7 +12,7 @@ require_once 'composer/vendor/autoload.php';
 use Orhanerday\OpenAi\OpenAi;
 
 // Define a chave de API
-$api_key = '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';
+$api_key = 'sk-xxxxxxxxxx';
 
 // Cria uma instância da classe OpenAi
 $open_ai = new OpenAi($api_key);
