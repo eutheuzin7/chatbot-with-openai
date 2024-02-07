@@ -14,6 +14,6 @@ Este é um simples exemplo de chatbot web com inteligência artificial OpenAI (C
 ```
 
 ## Equipe <3
-> Criador/Dev - [@EUTHEUZIN](https://t.me/EUTHEUZIN)
-> index/front - [@K3nny_McC0rm1ck](https://t.me/K3nny_McC0rm1ck)
-> key para teste do script - [@pladixoficial](https://t.me/pladixoficial)
+> Criador/Dev - [@EUTHEUZIN](https://t.me/EUTHEUZIN)</br>
+> index/front - [@K3nny_McC0rm1ck](https://t.me/K3nny_McC0rm1ck)</br>
+> key para teste do script - [@pladixoficial](https://t.me/pladixoficial)</br>
